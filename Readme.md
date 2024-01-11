@@ -6,3 +6,4 @@ step 3: create directories public ,inside public temp directory and a file in te
 step 4: config package.json : "type": "module"
 step 4: npm install nodemon and configure package.json : "dev": "nodemon src/index.js"
 step 5: npm i -D prettier and configure the prettier file of ignore and .prettierrc
+step 6: npm i mongoose express dotenv
